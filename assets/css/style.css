@@ -177,15 +177,13 @@ h1 {
 
 
   button {
-    /* position     : absolute;
-    left         : 440px;
-    top          : 360px; */
-  
+    
+    
     padding      :20px;
-  
+
     font         : bold 1em 'Arial';
     border       : none;
-    /* border-radius: 5px; */
+
     background   : #63A8A4;
     color: #ffffff;
   
